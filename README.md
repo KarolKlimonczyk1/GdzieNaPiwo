@@ -1,7 +1,7 @@
 # GdzieNaPiwo
 <b>GdzieNaPiwo</b> 
 </br> Jestes w nowym miescie? Nie wiesz gdzie na piwo? Juz wiesz! </br>
-Projekt swtworzony na hackathonie AGHacks.</br> </br>
+Projekt stworzony na hackathonie AGHacks.</br> </br>
 
 <b>Koncepcja i idea:</b> </br>
 Kiedy odwiedzamy nowe miasto, lub chcemy pojsc na piwo w nowe miejsce, czesto kierujemy sie cena piwa oraz udostepnionymi atrakcjami. W wybraniu najlepszego baru moze pomoc nam ta aplikacja.
