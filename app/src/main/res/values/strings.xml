@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GdzieNaPiwo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_pub">PubActivity</string>
+    <string name="pub_name">Nazwa</string>
+    <string name="pool">Bilard</string>
+    <string name="title_activity_pubs">PubsActivity</string>
+    <string name="title_activity_add_beer">AddBeerActivity</string>
+    <string name="pub_label">Pub</string>
+    <string name="title_activity_add_pub">AddPubActivit</string>
+    <string name="pub_name_label">Nazwa pubu</string>
+    <string name="address">Adres</string>
+    <string name="add_pub">Znalazłem fajny pub!</string>
+    <string name="add_beer">Znalazłem tanie piwo!</string>
+    <string name="map">Piwo w okolicy</string>
+    <string name="show_pubs">Wszystkie puby w mieście</string>
+    <string name="title">Gdzie na piwo</string>
+    <string name="votes">" głosów"</string>
+    <string name="pln">"PLN : "</string>
+</resources>
